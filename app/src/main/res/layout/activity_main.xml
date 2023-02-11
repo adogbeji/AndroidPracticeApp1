@@ -47,9 +47,10 @@
         android:id="@+id/button4"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Button"
-        android:backgroundTint="@color/colourPurple1"
+        android:text="SELECT DATE"
+        android:textSize="18sp"
         android:textColor="@color/white"
+        android:backgroundTint="@color/colourPurple1"
         />
 
     <TextView
